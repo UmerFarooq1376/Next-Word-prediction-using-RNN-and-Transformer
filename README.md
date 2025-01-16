@@ -73,8 +73,3 @@ The dataset was curated by **web scraping** from:
   - Complemented the Transformer in simpler text generation scenarios.
 
 ---
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
